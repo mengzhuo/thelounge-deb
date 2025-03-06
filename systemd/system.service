@@ -13,6 +13,7 @@ ProtectSystem=yes
 ProtectHome=yes
 NoNewPrivileges=yes
 PrivateTmp=yes
+RuntimeDirectory=thelounge
 
 [Install]
 WantedBy=multi-user.target
